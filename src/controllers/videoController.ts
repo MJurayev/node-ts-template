@@ -1,0 +1,6 @@
+
+class VideoController{
+    getAllVideos(){
+        return []
+    }
+}
